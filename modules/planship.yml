@@ -1,6 +1,6 @@
 name: planship
 description: >-
-  Implement entitlements, metering, plan packaging, and customer/subscription management in your Nuxt app powered by Planship.
+  Entitlements, metering, plan packaging, and subscription management for Nuxt apps.
 repo: planship/planship-nuxt
 npm: '@planship/nuxt'
 icon: planship.png
